@@ -1,0 +1,11 @@
+D:\Programy\Semestr VI\GraWKulki\bin\Debug\GraWKulki.exe.config
+D:\Programy\Semestr VI\GraWKulki\obj\Debug\GraWKulki.csprojResolveAssemblyReference.cache
+D:\Programy\Semestr VI\GraWKulki\obj\Debug\GraWKulki.Form1.resources
+D:\Programy\Semestr VI\GraWKulki\obj\Debug\GraWKulki.Properties.Resources.resources
+D:\Programy\Semestr VI\GraWKulki\obj\Debug\GraWKulki.csproj.GenerateResource.Cache
+D:\Programy\Semestr VI\GraWKulki\bin\Debug\GraWKulki.exe
+D:\Programy\Semestr VI\GraWKulki\bin\Debug\GraWKulki.pdb
+D:\Programy\Semestr VI\GraWKulki\obj\Debug\GraWKulki.exe
+D:\Programy\Semestr VI\GraWKulki\obj\Debug\GraWKulki.pdb
+D:\Programy\Semestr VI\GraWKulki\obj\Debug\GraWKulki.Form2.resources
+D:\Programy\Semestr VI\GraWKulki\obj\Debug\GraWKulki.Form3.resources
